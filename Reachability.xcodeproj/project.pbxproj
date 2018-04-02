@@ -30,7 +30,6 @@
 		AA73449A1BE76820008AFE69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA7344991BE76820008AFE69 /* Assets.xcassets */; };
 		AA7344B11BE76862008AFE69 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7344B01BE76862008AFE69 /* Reachability.swift */; };
 		AA7344B51BE769D6008AFE69 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AA7344B31BE769D6008AFE69 /* LaunchScreen.xib */; };
-		CA6187661F8D220200FD5234 /* CHANGELOG.md in Sources */ = {isa = PBXBuildFile; fileRef = CA6187651F8D220200FD5234 /* CHANGELOG.md */; };
 		CAC230C51BF2180000F6464E /* Reachability.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA7344721BE7678B008AFE69 /* Reachability.framework */; };
 		CAC230C61BF2180000F6464E /* Reachability.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AA7344721BE7678B008AFE69 /* Reachability.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -574,7 +573,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA7344B11BE76862008AFE69 /* Reachability.swift in Sources */,
-				CA6187661F8D220200FD5234 /* CHANGELOG.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
